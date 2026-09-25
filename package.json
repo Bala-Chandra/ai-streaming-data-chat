@@ -1,0 +1,9 @@
+{
+  "name": "ai-streaming-data-chat",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "frontend": "npm --prefix frontend run dev",
+    "backend": "npm --prefix backend run start:dev"
+  }
+}
